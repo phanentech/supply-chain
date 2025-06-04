@@ -83,13 +83,4 @@ This section outlines various testing phases crucial for developing a robust app
 
 Open-source licenses allow others to freely use, modify, and distribute your project.
 
-## Maintainer/Team Contact Information
 
-- **Name**: Ankita Sharma
-- **Role**: Project Maintainer/Lead Developer
-- **LinkedIn**: [Ankit Sharma](https://www.linkedin.com/in/ankitrajsh/)
-- **Email**: ankitraj.84060@gmail.com
-
-## Credits
-
-Acknowledge contributors, organizations, or any third-party services or libraries crucial in the development of your project.
